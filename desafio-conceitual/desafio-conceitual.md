@@ -1,4 +1,4 @@
-#Desafio conceitual
+# Desafio conceitual
 
 ## 1 - Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
 
@@ -18,9 +18,9 @@ Exemplos de protocolos:
 - IP
 - ICMP
 
-As camadas trabalham em conjunto no modelo OSI.No caso da camada 2 e 3 enquanto uma trata da conexão entre os dispositivos, a outra trata da comunicação entre as redes.
+As camadas trabalham em conjunto no modelo OSI. No caso da camada 2 e 3 enquanto uma trata da conexão entre os dispositivos, a outra trata da comunicação entre as redes.
 
---
+---
 
 ## 2 - Qual a diferença entre adotar uma solução proprietária como o sistema operacional Windows quando comparado a adoção de uma solução Open source como o sistema operacional Ubuntu? Quais seriam os pontos negativos e positivos de cada abordagem?
 
@@ -30,14 +30,14 @@ No software proprietário, temos sempre uma empresa que controla totalmente o de
 
 Isso implica em alguns pontos positivos e negativos:
 
-*Negativos*
+**Negativos**
 - Custo
 - Dependência de uma empresa
 - Limitação de personalização
 - Código fechado que implica de certa forma em segurança
 - Suporte limitado a empresa proprietária
 
-*Positivos*
+**Positivos**
 - Integração com outros produtos da empresa
 - Garantia de qualidade (em alguns casos)
 - Entre outros pontos dependendo do software
@@ -48,21 +48,21 @@ Soluções Open Source, são desenvolvidas em conjunto com a comunidade, o códi
 
 O que também implica em pontos positivos e negativos:
 
-*Negativos*
+**Negativos**
 - Suporte também limitado, no caso, dependende de uma comunidade ativa
 - Integraçao com outros produtos costuma ser mais difícil
 
-*Positivos*
+**Positivos**
 - Segurança (mais pessoas podem revisar o código e encontrar falhas)
 - Não tem custo de licença
 - Personalização
 - Comunidade
 
---
+---
 
 ## 3 - O que seria um projeto Open source? Como empresas podem adotar tais tecnologias e o que isso acarreta?
 
 Projetos Open Source são projetos de software de código aberto, onde o código pode ser modificado e distribuído livremente.
 
-Empresas podem adotar tecnologias Open Source de diversas formas, até porque a adoção dessas soluções acarretam diversos benefícios, como por exemplo: o preço (não tem custo) e a personalização para atender as suas próprias necessidades.
+Empresas podem adotar tecnologias Open Source de diversas formas, até porque a adoção dessas soluções acarretam diversos benefícios, como por exemplo: O preço (não tem custo) e a personalização para atender as suas próprias necessidades.
 
